@@ -391,6 +391,8 @@ const fontMaps = {
     ",": { x: 3, y: 5, width: 1 },
     '"': { x: 4, y: 5, width: 3 },
     "'": { x: 5, y: 5, width: 1 },
+    "’": { x: 5, y: 5, width: 1 },
+    "—": { x: 11, y: 5, width: 1 },
     "(": { x: 6, y: 5, width: 5 },
     ")": { x: 7, y: 5, width: 5 },
     "[": { x: 8, y: 5, width: 5 },
